@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.4a99be89d2ddfc584abec8918612c5d3.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.39ef24c686c6e6d71bd159161a3903d9.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /* eslint-disable no-restricted-globals */
 const VERSION = new Date().getTime();
